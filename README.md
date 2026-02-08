@@ -6,18 +6,18 @@ The Madhav Ecommerce Sales Dashboard is a Power BI project designed to help the 
 
 This dashboard provides a **single, interactive view** of sales, profit, quantity sold, customer behavior, payment modes, and regional performance — enabling **data-driven business decisions**.
 
----
 
-## 🎯 Business Objective
+
+ 🎯 Business Objective
 
 The owner of Madhav Store wanted:
 
-* A **centralized dashboard** to monitor online sales
-* Clear visibility into **profits, revenue, and quantities**
-* Insights into **top states, categories, customers, and payment modes**
+* A centralized dashboard to monitor online sales
+* Clear visibility into profits, revenue, and quantities
+* Insights into top states, categories, customers, and payment modes
 * Monthly and quarterly **performance tracking**
 
-This dashboard addresses all these needs in a **simple, visual, and interactive** way.
+This dashboard addresses all these needs in a simple, visual, and interactive way.
 
 ---
 
@@ -28,8 +28,6 @@ This dashboard addresses all these needs in a **simple, visual, and interactive*
 * **Total Quantity Sold**
 * **Monthly Profit Trends**
 * **Category-wise & Sub-category-wise Performance**
-
----
 
 ## 📈 Dashboard Insights
 
@@ -42,7 +40,7 @@ The dashboard helps answer key business questions such as:
 * How does **profit vary month-by-month**?
 * Which **sub-categories** contribute most to profit?
 
----
+
 
 ## 🧠 Visualizations Used
 
@@ -59,7 +57,7 @@ The dashboard helps answer key business questions such as:
 * **Column Chart** – Monthly Profit Trend
 * **Slicers** – Quarter & State for interactive filtering
 
----
+
 
 ## 🛠 Tools & Technologies
 
@@ -68,7 +66,7 @@ The dashboard helps answer key business questions such as:
 * **DAX** – Calculated measures & KPIs
 * **Excel / CSV Dataset** (Ecommerce Sales Data)
 
----
+
 
 ## 🗂 Dataset Description
 
@@ -83,13 +81,13 @@ The dataset contains ecommerce transaction data with:
 
 *(Dataset used only for learning & demonstration purposes.)*
 
----
+
 
 ## 🖼 Dashboard Preview
 
 ![Madhav Ecommerce Sales Dashboard](./madhav%20store%20report.png)
 
----
+
 
 ## 🚀 Learnings from This Project
 
